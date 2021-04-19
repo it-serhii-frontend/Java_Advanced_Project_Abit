@@ -1,6 +1,6 @@
 package facultet.demoAbit.domain;
 
-public enum AbitAdmin {
+public enum EntrantAdmin {
 
 	Admin, Entrant;
 }
